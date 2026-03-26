@@ -1,0 +1,659 @@
+[
+  {
+    "_id": 1,
+    "chapter_count": 50,
+    "book_cat": "OLD",
+    "book_eng_name": "Genesis",
+    "book_mal_name": "ഉല്‍പത്തി",
+    "book_short_name": "ഉല്‍പ",
+    "book_long_name": "ഉല്‍പത്തി"
+  },
+  {
+    "_id": 2,
+    "chapter_count": 40,
+    "book_cat": "OLD",
+    "book_eng_name": "Exodus",
+    "book_mal_name": "പുറപ്പാട്‌",
+    "book_short_name": "പുറ",
+    "book_long_name": "പുറപ്പാട്‌"
+  },
+  {
+    "_id": 3,
+    "chapter_count": 27,
+    "book_cat": "OLD",
+    "book_eng_name": "Leviticus",
+    "book_mal_name": "ലേവ്യര്‍",
+    "book_short_name": "ലേവ്യ",
+    "book_long_name": "ലേവ്യര്‍"
+  },
+  {
+    "_id": 4,
+    "chapter_count": 36,
+    "book_cat": "OLD",
+    "book_eng_name": "Numbers",
+    "book_mal_name": "സംഖ്യ",
+    "book_short_name": "സംഖ്യ",
+    "book_long_name": "സംഖ്യ"
+  },
+  {
+    "_id": 5,
+    "chapter_count": 34,
+    "book_cat": "OLD",
+    "book_eng_name": "Deuteronomy",
+    "book_mal_name": "നിയമാവര്‍ത്തനം",
+    "book_short_name": "നിയ",
+    "book_long_name": "നിയമാവര്‍ത്തനം"
+  },
+  {
+    "_id": 6,
+    "chapter_count": 24,
+    "book_cat": "OLD",
+    "book_eng_name": "Joshua",
+    "book_mal_name": "ജോഷ്വ",
+    "book_short_name": "ജോഷ്വ",
+    "book_long_name": "ജോഷ്വ"
+  },
+  {
+    "_id": 7,
+    "chapter_count": 21,
+    "book_cat": "OLD",
+    "book_eng_name": "Judges",
+    "book_mal_name": "ന്യായാധിപന്‍മാര്‍",
+    "book_short_name": "ന്യായാ",
+    "book_long_name": "ന്യായാധിപന്‍മാര്‍"
+  },
+  {
+    "_id": 8,
+    "chapter_count": 4,
+    "book_cat": "OLD",
+    "book_eng_name": "Ruth",
+    "book_mal_name": "റൂത്ത്‌",
+    "book_short_name": "റൂത്ത്‌",
+    "book_long_name": "റൂത്ത്‌"
+  },
+  {
+    "_id": 9,
+    "chapter_count": 31,
+    "book_cat": "OLD",
+    "book_eng_name": "1 Samuel",
+    "book_mal_name": "1 സാമുവല്‍",
+    "book_short_name": "1 സാമു",
+    "book_long_name": "1 സാമുവല്‍"
+  },
+  {
+    "_id": 10,
+    "chapter_count": 24,
+    "book_cat": "OLD",
+    "book_eng_name": "2 Samuel",
+    "book_mal_name": "2 സാമുവല്‍",
+    "book_short_name": "2 സാമു",
+    "book_long_name": "2 സാമുവല്‍"
+  },
+  {
+    "_id": 11,
+    "chapter_count": 22,
+    "book_cat": "OLD",
+    "book_eng_name": "1 Kings",
+    "book_mal_name": "1 രാജാക്കന്‍മാര്‍",
+    "book_short_name": "1 രാജാ",
+    "book_long_name": "1 രാജാക്കന്‍മാര്‍"
+  },
+  {
+    "_id": 12,
+    "chapter_count": 25,
+    "book_cat": "OLD",
+    "book_eng_name": "2 Kings",
+    "book_mal_name": "2 രാജാക്കന്‍മാര്‍",
+    "book_short_name": "2 രാജാ",
+    "book_long_name": "2 രാജാക്കന്‍മാര്‍"
+  },
+  {
+    "_id": 13,
+    "chapter_count": 29,
+    "book_cat": "OLD",
+    "book_eng_name": "1 Chronicles",
+    "book_mal_name": "1 ദിനവൃത്താന്തം",
+    "book_short_name": "1 ദിന",
+    "book_long_name": "1 ദിനവൃത്താന്തം"
+  },
+  {
+    "_id": 14,
+    "chapter_count": 36,
+    "book_cat": "OLD",
+    "book_eng_name": "2 Chronicles",
+    "book_mal_name": "2 ദിനവൃത്താന്തം",
+    "book_short_name": "2 ദിന",
+    "book_long_name": "2 ദിനവൃത്താന്തം"
+  },
+  {
+    "_id": 15,
+    "chapter_count": 10,
+    "book_cat": "OLD",
+    "book_eng_name": "Ezra",
+    "book_mal_name": "എസ്രാ",
+    "book_short_name": "എസ്രാ",
+    "book_long_name": "എസ്രാ"
+  },
+  {
+    "_id": 16,
+    "chapter_count": 13,
+    "book_cat": "OLD",
+    "book_eng_name": "Nehemiah",
+    "book_mal_name": "നെഹമിയാ",
+    "book_short_name": "നെഹെ",
+    "book_long_name": "നെഹമിയാ"
+  },
+  {
+    "_id": 17,
+    "chapter_count": 14,
+    "book_cat": "OLD",
+    "book_eng_name": "Tobit",
+    "book_mal_name": "തോബിത്‌",
+    "book_short_name": "തോബി",
+    "book_long_name": "തോബിത്‌"
+  },
+  {
+    "_id": 18,
+    "chapter_count": 16,
+    "book_cat": "OLD",
+    "book_eng_name": "Judith",
+    "book_mal_name": "യൂദിത്ത്‌",
+    "book_short_name": "യൂദി",
+    "book_long_name": "യൂദിത്ത്‌"
+  },
+  {
+    "_id": 19,
+    "chapter_count": 21,
+    "book_cat": "OLD",
+    "book_eng_name": "Esther",
+    "book_mal_name": "എസ്‌തേര്‍",
+    "book_short_name": "എസ്‌തേ",
+    "book_long_name": "എസ്‌തേര്‍"
+  },
+  {
+    "_id": 20,
+    "chapter_count": 16,
+    "book_cat": "OLD",
+    "book_eng_name": "1 Maccabees",
+    "book_mal_name": "1 മക്കബായര്‍",
+    "book_short_name": "1 മക്ക",
+    "book_long_name": "1 മക്കബായര്‍"
+  },
+  {
+    "_id": 21,
+    "chapter_count": 15,
+    "book_cat": "OLD",
+    "book_eng_name": "2 Maccabees",
+    "book_mal_name": "2 മക്കബായര്‍",
+    "book_short_name": "2 മക്ക",
+    "book_long_name": "2 മക്കബായര്‍"
+  },
+  {
+    "_id": 22,
+    "chapter_count": 42,
+    "book_cat": "OLD",
+    "book_eng_name": "Job",
+    "book_mal_name": "ജോബ്‌",
+    "book_short_name": "ജോബ്‌",
+    "book_long_name": "ജോബ്‌"
+  },
+  {
+    "_id": 23,
+    "chapter_count": 150,
+    "book_cat": "OLD",
+    "book_eng_name": "Psalms",
+    "book_mal_name": "സങ്കീര്‍ത്തനങ്ങള്‍",
+    "book_short_name": "സങ്കീ",
+    "book_long_name": "സങ്കീര്‍ത്തനങ്ങള്‍"
+  },
+  {
+    "_id": 24,
+    "chapter_count": 31,
+    "book_cat": "OLD",
+    "book_eng_name": "The Proverbs",
+    "book_mal_name": "സുഭാഷിതങ്ങള്‍",
+    "book_short_name": "സുഭാ",
+    "book_long_name": "സുഭാഷിതങ്ങള്‍"
+  },
+  {
+    "_id": 25,
+    "chapter_count": 12,
+    "book_cat": "OLD",
+    "book_eng_name": "Ecclesiastes",
+    "book_mal_name": "സഭാപ്രസംഗകന്‍",
+    "book_short_name": "സഭാ",
+    "book_long_name": "സഭാപ്രസംഗകന്‍"
+  },
+  {
+    "_id": 26,
+    "chapter_count": 8,
+    "book_cat": "OLD",
+    "book_eng_name": "The Song of Songs",
+    "book_mal_name": "ഉത്തമഗീതം",
+    "book_short_name": "ഉത്ത",
+    "book_long_name": "ഉത്തമഗീതം"
+  },
+  {
+    "_id": 27,
+    "chapter_count": 19,
+    "book_cat": "OLD",
+    "book_eng_name": "Wisdom",
+    "book_mal_name": "ജ്‌ഞാനം",
+    "book_short_name": "ജ്‌ഞാനം",
+    "book_long_name": "ജ്‌ഞാനം"
+  },
+  {
+    "_id": 28,
+    "chapter_count": 51,
+    "book_cat": "OLD",
+    "book_eng_name": "Ecclesiasticus",
+    "book_mal_name": "പ്രഭാഷകന്‍",
+    "book_short_name": "പ്രഭാ",
+    "book_long_name": "പ്രഭാഷകന്‍"
+  },
+  {
+    "_id": 29,
+    "chapter_count": 66,
+    "book_cat": "OLD",
+    "book_eng_name": "Isaiah",
+    "book_mal_name": "ഏശയ്യാ",
+    "book_short_name": "ഏശ",
+    "book_long_name": "ഏശയ്യാ"
+  },
+  {
+    "_id": 30,
+    "chapter_count": 52,
+    "book_cat": "OLD",
+    "book_eng_name": "Jeremiah",
+    "book_mal_name": "ജറെമിയാ",
+    "book_short_name": "ജറെ",
+    "book_long_name": "ജറെമിയാ"
+  },
+  {
+    "_id": 31,
+    "chapter_count": 5,
+    "book_cat": "OLD",
+    "book_eng_name": "Lamentations",
+    "book_mal_name": "വിലാപങ്ങള്‍",
+    "book_short_name": "വിലാ",
+    "book_long_name": "വിലാപങ്ങള്‍"
+  },
+  {
+    "_id": 32,
+    "chapter_count": 6,
+    "book_cat": "OLD",
+    "book_eng_name": "Baruch",
+    "book_mal_name": "ബാറൂക്ക്‌",
+    "book_short_name": "ബാറൂ",
+    "book_long_name": "ബാറൂക്ക്‌"
+  },
+  {
+    "_id": 33,
+    "chapter_count": 48,
+    "book_cat": "OLD",
+    "book_eng_name": "Ezekiel",
+    "book_mal_name": "എസെക്കിയേല്‍",
+    "book_short_name": "എസെ",
+    "book_long_name": "എസെക്കിയേല്‍"
+  },
+  {
+    "_id": 34,
+    "chapter_count": 14,
+    "book_cat": "OLD",
+    "book_eng_name": "Daniel",
+    "book_mal_name": "ദാനിയേല്‍",
+    "book_short_name": "ദാനി",
+    "book_long_name": "ദാനിയേല്‍"
+  },
+  {
+    "_id": 35,
+    "chapter_count": 14,
+    "book_cat": "OLD",
+    "book_eng_name": "Hosea",
+    "book_mal_name": "ഹോസിയാ",
+    "book_short_name": "ഹോസി",
+    "book_long_name": "ഹോസിയാ"
+  },
+  {
+    "_id": 36,
+    "chapter_count": 3,
+    "book_cat": "OLD",
+    "book_eng_name": "Joel",
+    "book_mal_name": "ജോയേല്‍",
+    "book_short_name": "ജോയേ",
+    "book_long_name": "ജോയേല്‍"
+  },
+  {
+    "_id": 37,
+    "chapter_count": 9,
+    "book_cat": "OLD",
+    "book_eng_name": "Amos",
+    "book_mal_name": "ആമോസ്‌",
+    "book_short_name": "ആമോ",
+    "book_long_name": "ആമോസ്‌"
+  },
+  {
+    "_id": 38,
+    "chapter_count": 1,
+    "book_cat": "OLD",
+    "book_eng_name": "Obadiah",
+    "book_mal_name": "ഒബാദിയാ",
+    "book_short_name": "ഒബാ",
+    "book_long_name": "ഒബാദിയാ"
+  },
+  {
+    "_id": 39,
+    "chapter_count": 4,
+    "book_cat": "OLD",
+    "book_eng_name": "Jonah",
+    "book_mal_name": "യോനാ",
+    "book_short_name": "യോനാ",
+    "book_long_name": "യോനാ"
+  },
+  {
+    "_id": 40,
+    "chapter_count": 7,
+    "book_cat": "OLD",
+    "book_eng_name": "Micah",
+    "book_mal_name": "മിക്കാ",
+    "book_short_name": "മിക്കാ",
+    "book_long_name": "മിക്കാ"
+  },
+  {
+    "_id": 41,
+    "chapter_count": 3,
+    "book_cat": "OLD",
+    "book_eng_name": "Nahum",
+    "book_mal_name": "നാഹും",
+    "book_short_name": "നാഹും",
+    "book_long_name": "നാഹും"
+  },
+  {
+    "_id": 42,
+    "chapter_count": 3,
+    "book_cat": "OLD",
+    "book_eng_name": "Habakkuk",
+    "book_mal_name": "ഹബക്കുക്ക്‌",
+    "book_short_name": "ഹബ",
+    "book_long_name": "ഹബക്കുക്ക്‌"
+  },
+  {
+    "_id": 43,
+    "chapter_count": 3,
+    "book_cat": "OLD",
+    "book_eng_name": "Zephaniah",
+    "book_mal_name": "സെഫാനിയാ",
+    "book_short_name": "സെഫാ",
+    "book_long_name": "സെഫാനിയാ"
+  },
+  {
+    "_id": 44,
+    "chapter_count": 2,
+    "book_cat": "OLD",
+    "book_eng_name": "Haggai",
+    "book_mal_name": "ഹഗ്‌ഗായി",
+    "book_short_name": "ഹഗ്ഗാ",
+    "book_long_name": "ഹഗ്‌ഗായി"
+  },
+  {
+    "_id": 45,
+    "chapter_count": 14,
+    "book_cat": "OLD",
+    "book_eng_name": "Zechariah",
+    "book_mal_name": "സഖറിയാ",
+    "book_short_name": "സഖ",
+    "book_long_name": "സഖറിയാ"
+  },
+  {
+    "_id": 46,
+    "chapter_count": 4,
+    "book_cat": "OLD",
+    "book_eng_name": "Malachi",
+    "book_mal_name": "മലാക്കി",
+    "book_short_name": "മലാ",
+    "book_long_name": "മലാക്കി"
+  },
+  {
+    "_id": 47,
+    "chapter_count": 28,
+    "book_cat": "NEW",
+    "book_eng_name": "Matthew",
+    "book_mal_name": "മത്തായി",
+    "book_short_name": "മത്താ",
+    "book_long_name": "മത്തായി എഴുതിയ സുവിശേഷം"
+  },
+  {
+    "_id": 48,
+    "chapter_count": 16,
+    "book_cat": "NEW",
+    "book_eng_name": "Mark",
+    "book_mal_name": "മര്‍ക്കോസ്‌",
+    "book_short_name": "മര്‍ക്കോ",
+    "book_long_name": "മര്‍ക്കോസ്‌ എഴുതിയ സുവിശേഷം"
+  },
+  {
+    "_id": 49,
+    "chapter_count": 24,
+    "book_cat": "NEW",
+    "book_eng_name": "Luke",
+    "book_mal_name": "ലൂക്കാ",
+    "book_short_name": "ലൂക്കാ",
+    "book_long_name": "വിശുദ്‌ധ ലൂക്കായുടെ സുവിശേഷം"
+  },
+  {
+    "_id": 50,
+    "chapter_count": 21,
+    "book_cat": "NEW",
+    "book_eng_name": "John",
+    "book_mal_name": "യോഹന്നാന്‍",
+    "book_short_name": "യോഹ",
+    "book_long_name": "യോഹന്നാന്‍ എഴുതിയ സുവിശേഷം"
+  },
+  {
+    "_id": 51,
+    "chapter_count": 28,
+    "book_cat": "NEW",
+    "book_eng_name": "Acts of Apostles",
+    "book_mal_name": "അപ്പ. പ്രവര്‍ത്തനങ്ങള്‍",
+    "book_short_name": "അപ്പ.",
+    "book_long_name": "അപ്പസ്‌തോലന്മാരുടെ പ്രവര്‍ത്തനങ്ങള്‍"
+  },
+  {
+    "_id": 52,
+    "chapter_count": 16,
+    "book_cat": "NEW",
+    "book_eng_name": "Romans",
+    "book_mal_name": "റോമാ",
+    "book_short_name": "റോമ",
+    "book_long_name": "പൗലോസ്‌ റോമാക്കാര്‍ക്ക്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 53,
+    "chapter_count": 16,
+    "book_cat": "NEW",
+    "book_eng_name": "1 Corinthians",
+    "book_mal_name": "1 കോറിന്തോസ്‌",
+    "book_short_name": "1 കോറി",
+    "book_long_name": "പൗലോസ്‌ കോറിന്തോസുകാര്‍ക്ക്‌ എഴുതിയ ലേഖനങ്ങള്‍"
+  },
+  {
+    "_id": 54,
+    "chapter_count": 13,
+    "book_cat": "NEW",
+    "book_eng_name": "2 Corinthians",
+    "book_mal_name": "2 കോറിന്തോസ്‌",
+    "book_short_name": "2 കോറി",
+    "book_long_name": "കോറിന്തോസുകാര്‍ക്ക്‌ എഴുതിയ രണ്ടാം ലേഖനം."
+  },
+  {
+    "_id": 55,
+    "chapter_count": 6,
+    "book_cat": "NEW",
+    "book_eng_name": "Galatians",
+    "book_mal_name": "ഗലാത്തിയാ",
+    "book_short_name": "ഗലാ",
+    "book_long_name": "പൗലോസ്‌ ഗലാത്തിയാക്കാര്‍ക്ക്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 56,
+    "chapter_count": 6,
+    "book_cat": "NEW",
+    "book_eng_name": "Ephesians",
+    "book_mal_name": "എഫേസോസ്‌",
+    "book_short_name": "എഫേ",
+    "book_long_name": "പൗലോസ്‌ എഫേസോസുകാര്‍ക്ക്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 57,
+    "chapter_count": 4,
+    "book_cat": "NEW",
+    "book_eng_name": "Philippians",
+    "book_mal_name": "ഫിലിപ്പി",
+    "book_short_name": "ഫിലി",
+    "book_long_name": "പൗലോസ്‌ ഫിലിപ്പിയര്‍ക്ക്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 58,
+    "chapter_count": 4,
+    "book_cat": "NEW",
+    "book_eng_name": "Colossians",
+    "book_mal_name": "കൊളോസോസ്‌",
+    "book_short_name": "കൊളോ",
+    "book_long_name": "പൗലോസ്‌ കൊളോസോസുകാര്‍ക്ക്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 59,
+    "chapter_count": 5,
+    "book_cat": "NEW",
+    "book_eng_name": "1 Thessalonians",
+    "book_mal_name": "1 തെസലോനിക്കാ",
+    "book_short_name": "1 തെസ",
+    "book_long_name": "തെസലോനിക്കാക്കാര്‍ക്ക്‌ എഴുതിയ ഒന്നാം ലേഖനം"
+  },
+  {
+    "_id": 60,
+    "chapter_count": 3,
+    "book_cat": "NEW",
+    "book_eng_name": "2 Thessalonians",
+    "book_mal_name": "2 തെസലോനിക്കാ",
+    "book_short_name": "2 തെസ",
+    "book_long_name": "തെസലോനിക്കാക്കാര്‍ക്ക്‌ എഴുതിയ രണ്ടാം ലേഖനം"
+  },
+  {
+    "_id": 61,
+    "chapter_count": 6,
+    "book_cat": "NEW",
+    "book_eng_name": "1 Timothy",
+    "book_mal_name": "1 തിമോത്തേയോസ്‌",
+    "book_short_name": "1 തിമോ",
+    "book_long_name": "തിമോത്തേയോസിന്‌ എഴുതിയ ഒന്നാംലേഖനം"
+  },
+  {
+    "_id": 62,
+    "chapter_count": 4,
+    "book_cat": "NEW",
+    "book_eng_name": "2 Timothy",
+    "book_mal_name": "2 തിമോത്തേയോസ്‌",
+    "book_short_name": "2 തിമോ",
+    "book_long_name": "തിമോത്തേയോസിന്‌ എഴുതിയ രണ്ടാം ലേഖനം"
+  },
+  {
+    "_id": 63,
+    "chapter_count": 3,
+    "book_cat": "NEW",
+    "book_eng_name": "Titus",
+    "book_mal_name": "തീത്തോസ്‌",
+    "book_short_name": "തീത്തോ",
+    "book_long_name": "പൗലോസ്‌ തീത്തോസിന്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 64,
+    "chapter_count": 1,
+    "book_cat": "NEW",
+    "book_eng_name": "Philemon",
+    "book_mal_name": "ഫിലെമോന്‍",
+    "book_short_name": "ഫിലെ",
+    "book_long_name": "പൗലോസ്‌ ഫിലെമോന്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 65,
+    "chapter_count": 13,
+    "book_cat": "NEW",
+    "book_eng_name": "Hebrews",
+    "book_mal_name": "ഹെബ്രായര്‍",
+    "book_short_name": "ഹെബ്ര",
+    "book_long_name": "ഹെബ്രായര്‍ക്കുള്ള ലേഖനം"
+  },
+  {
+    "_id": 66,
+    "chapter_count": 5,
+    "book_cat": "NEW",
+    "book_eng_name": "James",
+    "book_mal_name": "യാക്കോബ്‌",
+    "book_short_name": "യാക്കോ",
+    "book_long_name": "യാക്കോബ്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 67,
+    "chapter_count": 5,
+    "book_cat": "NEW",
+    "book_eng_name": "1 Peter",
+    "book_mal_name": "1 പത്രോസ്",
+    "book_short_name": "1 പത്രോ",
+    "book_long_name": "പത്രോസ് എഴുതിയ ഒന്നാം ലേഖനം"
+  },
+  {
+    "_id": 68,
+    "chapter_count": 3,
+    "book_cat": "NEW",
+    "book_eng_name": "2 Peter",
+    "book_mal_name": "2 പത്രോസ്",
+    "book_short_name": "2 പത്രോ",
+    "book_long_name": "പത്രോസ് എഴുതിയ രണ്ടാംലേഖനം"
+  },
+  {
+    "_id": 69,
+    "chapter_count": 5,
+    "book_cat": "NEW",
+    "book_eng_name": "1 John",
+    "book_mal_name": "1 യോഹന്നാന്‍",
+    "book_short_name": "1 യോഹ",
+    "book_long_name": "യോഹന്നാന്‍ എഴുതിയ ഒന്നാം ലേഖനം"
+  },
+  {
+    "_id": 70,
+    "chapter_count": 1,
+    "book_cat": "NEW",
+    "book_eng_name": "2 John",
+    "book_mal_name": "2 യോഹന്നാന്‍",
+    "book_short_name": "2 യോഹ",
+    "book_long_name": "യോഹന്നാന്‍ എഴുതിയ രണ്ടാം ലേഖനം"
+  },
+  {
+    "_id": 71,
+    "chapter_count": 1,
+    "book_cat": "NEW",
+    "book_eng_name": "3 John",
+    "book_mal_name": "3 യോഹന്നാന്‍",
+    "book_short_name": "3 യോഹ",
+    "book_long_name": "യോഹന്നാന്‍ എഴുതിയ മൂന്നാംലേഖനം"
+  },
+  {
+    "_id": 72,
+    "chapter_count": 1,
+    "book_cat": "NEW",
+    "book_eng_name": "Jude",
+    "book_mal_name": "യുദാസ്‌",
+    "book_short_name": "യൂദാ",
+    "book_long_name": "യുദാസ്‌ എഴുതിയ ലേഖനം"
+  },
+  {
+    "_id": 73,
+    "chapter_count": 22,
+    "book_cat": "NEW",
+    "book_eng_name": "Revelation",
+    "book_mal_name": "വെളിപാട്‌",
+    "book_short_name": "വെളി",
+    "book_long_name": "യോഹന്നാനു ലഭി  ച്ചവെളിപാട്‌"
+  }
+]

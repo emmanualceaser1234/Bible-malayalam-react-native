@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Bible",
+    "slug": "BibleApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E8F4FD"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#E8F4FD"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.bibleapp.android"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0ac19b26-4cb0-4b72-bfa6-50cbfe9f132c"
+      }
+    },
+    "cli": {
+      "appVersionSource": "remote"
+    }
+  }
+}
